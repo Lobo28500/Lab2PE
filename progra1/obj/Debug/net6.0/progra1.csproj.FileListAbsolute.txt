@@ -1,0 +1,15 @@
+C:\Users\GAMER\Documents\progra1\bin\Debug\net6.0\progra1.exe
+C:\Users\GAMER\Documents\progra1\bin\Debug\net6.0\progra1.deps.json
+C:\Users\GAMER\Documents\progra1\bin\Debug\net6.0\progra1.runtimeconfig.json
+C:\Users\GAMER\Documents\progra1\bin\Debug\net6.0\progra1.dll
+C:\Users\GAMER\Documents\progra1\bin\Debug\net6.0\progra1.pdb
+C:\Users\GAMER\Documents\progra1\obj\Debug\net6.0\progra1.csproj.AssemblyReference.cache
+C:\Users\GAMER\Documents\progra1\obj\Debug\net6.0\progra1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMER\Documents\progra1\obj\Debug\net6.0\progra1.AssemblyInfoInputs.cache
+C:\Users\GAMER\Documents\progra1\obj\Debug\net6.0\progra1.AssemblyInfo.cs
+C:\Users\GAMER\Documents\progra1\obj\Debug\net6.0\progra1.csproj.CoreCompileInputs.cache
+C:\Users\GAMER\Documents\progra1\obj\Debug\net6.0\progra1.dll
+C:\Users\GAMER\Documents\progra1\obj\Debug\net6.0\refint\progra1.dll
+C:\Users\GAMER\Documents\progra1\obj\Debug\net6.0\progra1.pdb
+C:\Users\GAMER\Documents\progra1\obj\Debug\net6.0\progra1.genruntimeconfig.cache
+C:\Users\GAMER\Documents\progra1\obj\Debug\net6.0\ref\progra1.dll
